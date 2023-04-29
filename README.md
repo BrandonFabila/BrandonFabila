@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BrandonFabila&theme=github-dark&hide_border=true&border_radius=35&locale=es&mode=weekly&card_width=500)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BrandonFabila&theme=github-dark&hide_border=true&border_radius=35&locale=es&mode=weekly&card_width=500)]
 <!--
 **BrandonFabila/BrandonFabila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
