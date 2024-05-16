@@ -12,7 +12,7 @@
 console.log(aprendiendo); //Kali Linux
 ```
 
-💬 Contactame [https://developercdmx.online/](https://developercdmx.online/)
+💬 Contactame [https://cdmxdev.online/](https://cdmxdev.online/)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/BrandonFabila/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/BrandonFabila/" height="30" width="40" /></a>
