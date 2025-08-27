@@ -2,11 +2,9 @@
 <h3 align="center">Full Stack Developer</h3>
 <h3 align="center" color="red">.</h3>
 
-¡Bienvenidos! Soy Brandon y soy un apasionado programador Full Stack de México. Me especializo en tecnologías de vanguardia como Node, React, Next.js, AWS, PostgreSQL y Javascript.
+¡Hola! Soy Brandon Fabila, Desarrollador Web Full Stack y Especialista en DevOps con más de 3 años de experiencia construyendo, desplegando y optimizando aplicaciones web y soluciones en la nube.
 
-- Es cierto que tengo sólo 20 años, pero eso no significa que carezca de experiencia. Durante mi corta carrera, he aprendido y perfeccionado mis habilidades en el desarrollo web y he tenido la suerte de trabajar en una variedad de proyectos emocionantes y desafiantes, que me han permitido desarrollar una comprensión de cómo las diferentes partes del desarrollo web interactúan entre sí.
-
-- Me apasiona la tecnología y siempre estoy buscando maneras de mejorar y perfeccionar mis habilidades para brindar las mejores soluciones posibles. Si buscas un programador con conocimientos en tecnologías de vanguardia, ¡soy la persona adecuada para ti!
+- Domino tecnologías como React, Next.js, Node.js, PostgreSQL y MongoDB, integrando flujos CI/CD y gestionando infraestructura en Azure. Además, cuento con experiencia en redes, cableado estructurado y administración de soluciones de seguridad.
 
 ```js
 console.log(aprendiendo); //Kali Linux
@@ -16,7 +14,7 @@ console.log(aprendiendo); //Kali Linux
 
 <p align="center">
 <a href="https://www.linkedin.com/in/BrandonFabila/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/BrandonFabila/" height="30" width="40" /></a>
-<a href="https://developercdmx.online" target="blank"><img align="center" src="https://www.svgrepo.com/show/250471/www-url.svg" alt="https://www.linkedin.com/in/BrandonFabila/" height="30" width="40" /></a>
+<a href="https://devcdmx.online" target="blank"><img align="center" src="https://www.svgrepo.com/show/250471/www-url.svg" alt="https://www.linkedin.com/in/BrandonFabila/" height="30" width="40" /></a>
 </p>
 
 ⚡ **Herramientas y Lenguajes()**
