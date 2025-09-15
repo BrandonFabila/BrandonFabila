@@ -11,11 +11,9 @@
 ```js
 console.log("Siempre aprendiendo... 🚀"); // Kali Linux | Azure | Cloud | Full Stack
 ```
-
 <br>
-<p align="center"> <a href="https://devcdmx.online" target="blank">💼🌐 Portafolio WEB -> devcdmx.online 🌐💼</a></p>
 
-<p align="center"> <a href="https://www.linkedin.com/in/BrandonFabila/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /> </a> <a href="https://devcdmx.online" target="blank"> <img align="center" src="https://devcdmx.online/static/media/me-about.eb3b47abc79a0ddda259.gif" alt="portfolio" height="30" width="40" /> </a> </p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BrandonFabila&theme=github-dark&hide_border=true&border_radius=35&locale=es&mode=weekly&card_width=1000&)
 
 <br>
 <h2 align="center">⚡ Herramientas y Lenguajes ⚡</h2>
@@ -53,5 +51,7 @@ console.log("Siempre aprendiendo... 🚀"); // Kali Linux | Azure | Cloud | Full
 <br>
 <br>
 <br>
+<p align="center"> <a href="https://devcdmx.online" target="blank">💼🌐 Portafolio WEB -> devcdmx.online 🌐💼</a></p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BrandonFabila&theme=github-dark&hide_border=true&border_radius=35&locale=es&mode=weekly&card_width=1000&)
+<h3 align="center"> <a href="https://devcdmx.online" target="blank"> <img align="center" src="https://devcdmx.online/static/media/me-about.eb3b47abc79a0ddda259.gif" alt="portfolio" height="150" width="150" /> </a> </h3>
+
